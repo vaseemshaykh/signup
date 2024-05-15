@@ -1,0 +1,2 @@
+serviceClass: com.nitya.assesment.client.GreetingService
+path: 429704C299B268897E1F7FD79379E383.gwt.rpc

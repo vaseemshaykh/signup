@@ -1,0 +1,3 @@
+# Module sign_up
+# RPC service class, partial path of RPC policy file
+com.nitya.assesment.client.GreetingService, B037BF8828BB5E406ECDAF6DCADA0AF8.gwt.rpc
